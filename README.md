@@ -21,7 +21,7 @@ Built for a validator I actually operate, at [@vyralabshq](https://github.com/vy
 
 | Project | What it is |
 |---|---|
-| [Sol-Indexer](https://github.com/jkrishnad/Sol-Indexer) | Solana indexer built on the Yellowstone Geyser gRPC stream |
+| [sol-indexer](https://github.com/jkrishnad/sol-indexer) | Solana indexer built on the Yellowstone Geyser gRPC stream |
 | [gossip-explorer](https://github.com/jkrishnad/gossip-explorer) | Explores the Solana gossip network |
 | [mini-validator](https://github.com/jkrishnad/mini-validator) | Simplified Solana validator pipeline in Rust, built to see how the stages fit together |
 | [banking-jitter-harness](https://github.com/jkrishnad/banking-jitter-harness) | Measures jitter in the banking stage |
