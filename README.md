@@ -4,7 +4,7 @@ Infrastructure engineer working on Solana validator operations and Linux network
 
 I run a testnet validator on bare metal and build the tooling around it.
 
-- Validator dashboard: [vyralabs.fun/dashboard](https://vyralabs.fun/dashboard)
+- Validator dashboard: [dashboard](https://testnet.vyralabs.fun/)
 
 ### Validator tooling
 
